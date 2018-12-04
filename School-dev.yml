@@ -12,7 +12,7 @@ eureka:
     fetchRegistry: false
     serviceUrl:
     #微服务和客户端用来注册和发现的地址
-      defaultZone: http://192.168.174.129:8761/eureka/
+      defaultZone: http://192.168.174.130:8761/eureka/
 spring:
   application:
     name: userService
